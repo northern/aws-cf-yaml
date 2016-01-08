@@ -11,7 +11,7 @@ Before usage, first convert from YAML to JSON which can be done in variety of wa
 
 Simply store in an executable shell script and run as:
 
-    yaml2json wordpress.yaml
+    yaml2json wordpress
 
 Easy..
 
